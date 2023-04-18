@@ -25,7 +25,7 @@ if(isset($_GET['id'])){
 	}
 	catch (Exception){
 		echo "Song Already Added!";
-		//header("location:user_view.php") ;
+		header("location:user_view.php") ;
 	}
 };
 
