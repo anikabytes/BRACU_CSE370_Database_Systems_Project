@@ -1,1 +1,1 @@
-# CSE370-Project
+# CSE370-Project on Music Streaming Service 
