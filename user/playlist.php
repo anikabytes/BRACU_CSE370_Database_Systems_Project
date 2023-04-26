@@ -45,7 +45,7 @@ else {
 	<section id = "section1">
 
 
-		<form action=" " class="form_design" method="GET">	
+		<form action="search_fav.php" class="form_design" method="post">	
 		<div style="display:flex; ">
 			
 			<input name="search" type="text" placeholder="Search for music">
