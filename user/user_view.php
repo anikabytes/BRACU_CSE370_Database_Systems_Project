@@ -38,7 +38,7 @@ else {
 		<div class="row">  
 			<div class="col-md-2" style="font-size: 30px;color:#F2674A;"> Play Beats </div>
 			<div class="col-md-10" style="text-align: right"> 
-				<a href="user_playlist" style="margin-left: 20px;"> Favourites </a> 
+				<a href="playlist.php" style="margin-left: 20px;"> Favourites </a> 
 				<a href="logout.php" style="margin-left: 20px;"> Logout  </a> 
 			</div>
 		</div>
