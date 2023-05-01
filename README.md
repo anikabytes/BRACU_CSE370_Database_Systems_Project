@@ -2,9 +2,8 @@
 # Contributors: 
 <html>
   <body> 
-    
-    <p> Anika Islam (https://github.com/anikabytes) 
-      Nusrat Jahan Nuha (https://github.com/nuha-95)</p>
+    Anika Islam (https://github.com/anikabytes) 
+    Nusrat Jahan Nuha (https://github.com/nuha-95)
   </body>
 </html>
       
