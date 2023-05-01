@@ -73,7 +73,7 @@ else {
 	
 
 	
-				$sql="SELECT id,song_name, artist_name, album from songs WHERE artist_name like '%" . $_POST['search'] . "%' OR album like '%" . $_POST['search'] . "%' OR song_name like '%" . $_POST['search'] . "%' OR channel_name like '%" . $_POST['search'] . "%'";
+				$sql="SELECT id,song_name, artist_name, album from favorites WHERE artist_name like '%" . $_POST['search'] . "%' OR album like '%" . $_POST['search'] . "%' OR song_name like '%" . $_POST['search'] . "%' OR channel_name like '%" . $_POST['search'] . "%'";
 
 	
 				$result=mysqli_query($conn,$sql);
