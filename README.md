@@ -1,3 +1,4 @@
 # CSE370-Project on Music Streaming Service 
 Contributors: 
-https://github.com/anikabytes & https://github.com/nuha-95
+Anika Islam (https://github.com/anikabytes) 
+Nusrat Jahan Nuha (https://github.com/nuha-95)
